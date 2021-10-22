@@ -1,0 +1,46 @@
+C:\Users\sebas\Desktop\Mach3 Afiladora\Modifica archivo Gcode\Modifica archivo Gcode\bin\Debug\Modifica archivo Gcode.exe.config
+C:\Users\sebas\Desktop\Mach3 Afiladora\Modifica archivo Gcode\Modifica archivo Gcode\bin\Debug\Modifica archivo Gcode.exe
+C:\Users\sebas\Desktop\Mach3 Afiladora\Modifica archivo Gcode\Modifica archivo Gcode\bin\Debug\Modifica archivo Gcode.pdb
+C:\Users\sebas\Desktop\Mach3 Afiladora\Modifica archivo Gcode\Modifica archivo Gcode\obj\Debug\Modifica_archivo_Gcode.Form1.resources
+C:\Users\sebas\Desktop\Mach3 Afiladora\Modifica archivo Gcode\Modifica archivo Gcode\obj\Debug\Modifica_archivo_Gcode.Properties.Resources.resources
+C:\Users\sebas\Desktop\Mach3 Afiladora\Modifica archivo Gcode\Modifica archivo Gcode\obj\Debug\Modifica archivo Gcode.csproj.GenerateResource.Cache
+C:\Users\sebas\Desktop\Mach3 Afiladora\Modifica archivo Gcode\Modifica archivo Gcode\obj\Debug\Modifica archivo Gcode.exe
+C:\Users\sebas\Desktop\Mach3 Afiladora\Modifica archivo Gcode\Modifica archivo Gcode\obj\Debug\Modifica archivo Gcode.pdb
+C:\Users\sebas\Desktop\Mach3 Afiladora\Modifica archivo Gcode\Modifica archivo Gcode\obj\Debug\Modifica archivo Gcode.csprojResolveAssemblyReference.cache
+C:\Users\sebas\Desktop\Mach3 Afiladora\Modifica archivo Gcode3\Modifica archivo Gcode\obj\Debug\Modifica archivo Gcode.csprojResolveAssemblyReference.cache
+C:\Users\sebas\Desktop\Mach3 Afiladora\Modifica archivo Gcode3\Modifica archivo Gcode\obj\Debug\Modifica_archivo_Gcode.Form1.resources
+C:\Users\sebas\Desktop\Mach3 Afiladora\Modifica archivo Gcode3\Modifica archivo Gcode\obj\Debug\Modifica_archivo_Gcode.Properties.Resources.resources
+C:\Users\sebas\Desktop\Mach3 Afiladora\Modifica archivo Gcode3\Modifica archivo Gcode\obj\Debug\Modifica archivo Gcode.csproj.GenerateResource.Cache
+C:\Users\sebas\Desktop\Mach3 Afiladora\Modifica archivo Gcode3\Modifica archivo Gcode\obj\Debug\Modifica archivo Gcode.exe
+C:\Users\sebas\Desktop\Mach3 Afiladora\Modifica archivo Gcode3\Modifica archivo Gcode\obj\Debug\Modifica archivo Gcode.pdb
+C:\Users\sebas\Desktop\Mach3 Afiladora\Modifica archivo Gcode3\Modifica archivo Gcode\bin\Debug\Modifica archivo Gcode.exe.config
+C:\Users\sebas\Desktop\Mach3 Afiladora\Modifica archivo Gcode3\Modifica archivo Gcode\bin\Debug\Modifica archivo Gcode.exe
+C:\Users\sebas\Desktop\Mach3 Afiladora\Modifica archivo Gcode3\Modifica archivo Gcode\bin\Debug\Modifica archivo Gcode.pdb
+C:\Users\sebas\Desktop\Mach3 Afiladora\Modifica archivo Gcode4\Modifica archivo Gcode\bin\Debug\Modifica archivo Gcode.exe.config
+C:\Users\sebas\Desktop\Mach3 Afiladora\Modifica archivo Gcode4\Modifica archivo Gcode\bin\Debug\Modifica archivo Gcode.exe
+C:\Users\sebas\Desktop\Mach3 Afiladora\Modifica archivo Gcode4\Modifica archivo Gcode\bin\Debug\Modifica archivo Gcode.pdb
+C:\Users\sebas\Desktop\Mach3 Afiladora\Modifica archivo Gcode4\Modifica archivo Gcode\obj\Debug\Modifica archivo Gcode.csprojResolveAssemblyReference.cache
+C:\Users\sebas\Desktop\Mach3 Afiladora\Modifica archivo Gcode4\Modifica archivo Gcode\obj\Debug\Modifica_archivo_Gcode.Form1.resources
+C:\Users\sebas\Desktop\Mach3 Afiladora\Modifica archivo Gcode4\Modifica archivo Gcode\obj\Debug\Modifica_archivo_Gcode.Properties.Resources.resources
+C:\Users\sebas\Desktop\Mach3 Afiladora\Modifica archivo Gcode4\Modifica archivo Gcode\obj\Debug\Modifica archivo Gcode.csproj.GenerateResource.Cache
+C:\Users\sebas\Desktop\Mach3 Afiladora\Modifica archivo Gcode4\Modifica archivo Gcode\obj\Debug\Modifica archivo Gcode.exe
+C:\Users\sebas\Desktop\Mach3 Afiladora\Modifica archivo Gcode4\Modifica archivo Gcode\obj\Debug\Modifica archivo Gcode.pdb
+G:\Modifica archivo Gcode\Modifica archivo Gcode\bin\Debug\Modifica archivo Gcode.exe.config
+G:\Modifica archivo Gcode\Modifica archivo Gcode\bin\Debug\Modifica archivo Gcode.exe
+G:\Modifica archivo Gcode\Modifica archivo Gcode\bin\Debug\Modifica archivo Gcode.pdb
+G:\Modifica archivo Gcode\Modifica archivo Gcode\obj\Debug\Modifica archivo Gcode.csprojResolveAssemblyReference.cache
+G:\Modifica archivo Gcode\Modifica archivo Gcode\obj\Debug\Modifica_archivo_Gcode.Form1.resources
+G:\Modifica archivo Gcode\Modifica archivo Gcode\obj\Debug\Modifica_archivo_Gcode.Properties.Resources.resources
+G:\Modifica archivo Gcode\Modifica archivo Gcode\obj\Debug\Modifica archivo Gcode.csproj.GenerateResource.Cache
+G:\Modifica archivo Gcode\Modifica archivo Gcode\obj\Debug\Modifica archivo Gcode.exe
+G:\Modifica archivo Gcode\Modifica archivo Gcode\obj\Debug\Modifica archivo Gcode.pdb
+C:\Users\noteb\Desktop\Modifica archivo Gcode\Modifica archivo Gcode\bin\Debug\Modifica archivo Gcode.exe.config
+C:\Users\noteb\Desktop\Modifica archivo Gcode\Modifica archivo Gcode\bin\Debug\Modifica archivo Gcode.exe
+C:\Users\noteb\Desktop\Modifica archivo Gcode\Modifica archivo Gcode\bin\Debug\Modifica archivo Gcode.pdb
+C:\Users\noteb\Desktop\Modifica archivo Gcode\Modifica archivo Gcode\obj\Debug\Modifica archivo Gcode.csproj.AssemblyReference.cache
+C:\Users\noteb\Desktop\Modifica archivo Gcode\Modifica archivo Gcode\obj\Debug\Modifica_archivo_Gcode.Form1.resources
+C:\Users\noteb\Desktop\Modifica archivo Gcode\Modifica archivo Gcode\obj\Debug\Modifica_archivo_Gcode.Properties.Resources.resources
+C:\Users\noteb\Desktop\Modifica archivo Gcode\Modifica archivo Gcode\obj\Debug\Modifica archivo Gcode.csproj.GenerateResource.cache
+C:\Users\noteb\Desktop\Modifica archivo Gcode\Modifica archivo Gcode\obj\Debug\Modifica archivo Gcode.csproj.CoreCompileInputs.cache
+C:\Users\noteb\Desktop\Modifica archivo Gcode\Modifica archivo Gcode\obj\Debug\Modifica archivo Gcode.exe
+C:\Users\noteb\Desktop\Modifica archivo Gcode\Modifica archivo Gcode\obj\Debug\Modifica archivo Gcode.pdb

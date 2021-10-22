@@ -1,0 +1,9 @@
+C:\Users\sebas\Desktop\Mach3 Afiladora\Modifica archivo Gcode\Modifica archivo Gcode\bin\Release\Modifica archivo Gcode.exe.config
+C:\Users\sebas\Desktop\Mach3 Afiladora\Modifica archivo Gcode\Modifica archivo Gcode\bin\Release\Modifica archivo Gcode.exe
+C:\Users\sebas\Desktop\Mach3 Afiladora\Modifica archivo Gcode\Modifica archivo Gcode\bin\Release\Modifica archivo Gcode.pdb
+C:\Users\sebas\Desktop\Mach3 Afiladora\Modifica archivo Gcode\Modifica archivo Gcode\obj\Release\Modifica archivo Gcode.csprojResolveAssemblyReference.cache
+C:\Users\sebas\Desktop\Mach3 Afiladora\Modifica archivo Gcode\Modifica archivo Gcode\obj\Release\Modifica_archivo_Gcode.Form1.resources
+C:\Users\sebas\Desktop\Mach3 Afiladora\Modifica archivo Gcode\Modifica archivo Gcode\obj\Release\Modifica_archivo_Gcode.Properties.Resources.resources
+C:\Users\sebas\Desktop\Mach3 Afiladora\Modifica archivo Gcode\Modifica archivo Gcode\obj\Release\Modifica archivo Gcode.csproj.GenerateResource.Cache
+C:\Users\sebas\Desktop\Mach3 Afiladora\Modifica archivo Gcode\Modifica archivo Gcode\obj\Release\Modifica archivo Gcode.exe
+C:\Users\sebas\Desktop\Mach3 Afiladora\Modifica archivo Gcode\Modifica archivo Gcode\obj\Release\Modifica archivo Gcode.pdb
